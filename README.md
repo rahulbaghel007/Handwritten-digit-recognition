@@ -22,7 +22,7 @@ This structure is known as a feedforward architecture because the connections in
 
 How to use
 ```    
-git clone https://github.com/aakashjhawar/Handwritten-Digit-Recognition.git
+git clone https://github.com/rahulbaghel007/Handwritten-digit-recognition.git
 cd Handwritten-Digit-Recognition
 pip3 install -r requirements.txt 
 python3 tf_cnn.py
@@ -45,4 +45,4 @@ sudo apt-get install python-opencv
 ``` 
 ## Result:
 Following image is the prediction of the model.
-![Result of CNN model](https://github.com/aakashjhawar/Handwritten-Digit-Recognition/blob/master/result.png)
+![Result of CNN model]
